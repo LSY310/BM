@@ -11,3 +11,4 @@
 android, api : 김정희, 임서연, 정연희 
 android, DB : 김혜진, 김윤진
 
+<img src="![슬라이드6](https://github.com/LSY310/BM/assets/84219820/da696d47-fc86-478f-9be8-06a32e0c8517)">
